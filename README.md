@@ -46,6 +46,11 @@ npm start
 
 Your app will open on http://localhost:3000
 
+bash```
+
+
+
+
 ### 🧩 Features
  🔐 User Authentication (Login / Logout)
  🏷️ Product Listing Page
