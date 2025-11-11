@@ -44,9 +44,10 @@ npm install
 Run the Application
 npm start
 
-Your app will open on http://localhost:3000
+```
 
-bash```
+
+Your app will open on http://localhost:3000
 
 
 
@@ -60,7 +61,7 @@ bash```
  🎨 Responsive UI with CSS / Flexbox
  ⚡ Optimized for Performance
 
-🧠 Technologies Used
+# 🧠 Technologies Used
 Category	              Technology
 Frontend	               React.js, JavaScript (ES6+), HTML5, CSS3
 Routing	                 React Router DOM
